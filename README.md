@@ -1,7 +1,7 @@
 # Practica Curso de Git - Mobile Bootcamp VIII
 
 * ¿Qué comando utilizaste en el paso 11? ¿Por qué? 
- `git reset --hard HEAD~1`
+ ```git reset --hard HEAD~1`
  
  Este comando realiza dos acciones:
  1 Hace un reset en el staging area, por lo que limpia el staging area 
